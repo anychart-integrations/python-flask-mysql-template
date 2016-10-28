@@ -15,14 +15,15 @@ cursor = database.cursor()
 def main():
 	cursor.execute("SELECT name, value FROM fruits ORDER BY value DESC LIMIT 5")
 	data = cursor.fetchall()
-	chart = {"chart":
-				{"type": "pie",
-				 "title": "Top 5 fruits",
-				 "data": data,
-				 "container": "container"
-				}
-			}
+	chart = {
+		"chart": {
+			"type": "pie",
+			"title": "Top 5 fruits",
+			"data": data,
+			"container": "container"
+		}
+	}
 	return render_template("index.html", title = "Anychart Python template", chartData = json.dumps(chart))
 
-if __name__ == "__main__":
-    app.run()
+if __name__ == "__main__": 
+	app.run()
