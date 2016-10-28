@@ -68,7 +68,7 @@ python-flask-mysql-template/
 ## Technologies
 Language - [Python](https://www.python.org/)<br />
 Web framework - [Flask](http://flask.pocoo.org/)<br />
-Html tepmlate [Jinja 2](http://jinja.pocoo.org/docs/dev/)<br />
+Html tepmlate - [Jinja 2](http://jinja.pocoo.org/docs/dev/)<br />
 Database - [MySQL](https://www.mysql.com/)<br />
 
 
