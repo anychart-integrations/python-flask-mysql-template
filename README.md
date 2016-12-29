@@ -33,8 +33,8 @@ $ cd python-flask-mysql-template
 
 Install dependencies:
 ```
-$ sudo pip install Flask
-$ sudo pip install MySQL-python
+$ pip install --user Flask
+$ pip install --user MySQL-python
 ```
 
 Set up MySQL database, use -u -p flags to provide username and password:
