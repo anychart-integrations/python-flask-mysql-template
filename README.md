@@ -1,7 +1,5 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
-Python Flask basic template
-=========================
-
+# Python Flask basic template
 This example shows how to use Anychart library with the Python programming language, Flask microframework and MySQL database.
 
 ## Running
