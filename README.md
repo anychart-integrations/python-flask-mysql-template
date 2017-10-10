@@ -33,6 +33,11 @@ Install dependencies:
 ```
 $ pip install --user Flask
 $ pip install --user MySQL-python
+# if you have some problems installing MySQL-python, probably you should install libmysqlclient-dev or/and python-dev:
+# sudo apt-get install libmysqlclient-dev
+# sudo apt-get install python-dev
+# Or you can just run:
+# sudo apt-get install python-mysqldb
 ```
 
 Set up MySQL database, use -u -p flags to provide username and password:
