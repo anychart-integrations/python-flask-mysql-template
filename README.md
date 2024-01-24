@@ -4,7 +4,7 @@ This example shows how to use Anychart library with the Python programming langu
 
 ## Running
 
-To use this sample you must have Python 2.* installed (if not please visit [python download page](https://www.python.org/downloads/release/python-2712/)), PIP - Python package manager (if not please check [isntallation guide](https://pip.pypa.io/en/stable/installing/)) and
+To use this sample you must have Python 2.* installed (if not please visit [python download page](https://www.python.org/downloads/release/python-2712/)), PIP - Python package manager (if not please check [installation guide](https://pip.pypa.io/en/stable/installing/)) and
 MySQL installed and running (if not please check out [MySQL download page](https://dev.mysql.com/downloads/installer/) and follow [instructions](http://dev.mysql.com/doc/refman/5.7/en/installing.html))
 
 To check your installations, run the following command in the command line:
